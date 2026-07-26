@@ -1,3 +1,6 @@
+# Internal design notes: kept locally, never published.
+docs/
+
 # Editor / OS noise
 *.bak
 *~
