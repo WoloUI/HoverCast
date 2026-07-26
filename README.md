@@ -12,6 +12,12 @@ HoverCast deletes that whole workflow. Tick a checkbox next to a spell and the k
 *already* have it bound to becomes a mouseover cast. Your action bars don't change. Your
 keybinds don't change. No macros, no macro slots consumed.
 
+![The HoverCast spell list](.github/screenshots/spell-list.png)
+
+Your whole spellbook, one row per spell: a checkbox to enable it, the target filter, the
+fallback, and the key it resolved to — `set key` means the spell isn't on any action bar
+yet, so click it and press one.
+
 ---
 
 ## How it works
