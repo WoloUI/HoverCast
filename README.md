@@ -12,8 +12,6 @@ HoverCast deletes that whole workflow. Tick a checkbox next to a spell and the k
 *already* have it bound to becomes a mouseover cast. Your action bars don't change. Your
 keybinds don't change. No macros, no macro slots consumed.
 
-Version **1.0** — 63 automated tests.
-
 ---
 
 ## How it works
@@ -82,16 +80,6 @@ Optional: ElvUI (bar scanning + window skinning).
 | Direct heals, HoTs, dispels | Friendly | Target+Self |
 | Damage spells and debuffs | Hostile | Target |
 | Anything you must never misfire (big cooldowns, resurrect) | Friendly | Mouseover only |
-
-## Development
-
-```
-lua5.1 tests/run_all.lua     # 63 checks, headless, no game needed
-```
-
-Logic is factored into pure, testable seams — `SecureBinder.buildMacrotext`,
-`BindDetect.slotBinding`, `BindDetect.keyForSpell`, `SpellScan.list`, `EnsureDB`,
-`SpellConfig` — including coverage for the combat-lockdown queue.
 
 ## Credits
 
