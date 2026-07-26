@@ -1,0 +1,4 @@
+# Editor / OS noise
+*.bak
+*~
+.DS_Store

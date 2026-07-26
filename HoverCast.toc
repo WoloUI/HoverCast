@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: HoverCast
+## Notes: Turns learned spells into @mouseover casts without macros.
+## Author: WoloUI
+## Version: 1.0
+## SavedVariablesPerCharacter: HoverCastDB
+## OptionalDeps: ElvUI
+
+Core\Log.lua
+Core\Init.lua
+Core\SpellScan.lua
+Core\BindDetect.lua
+Core\SecureBinder.lua
+Core\Debug.lua
+UI\SpellRow.lua
+UI\MainFrame.lua
+UI\Minimap.lua
