@@ -87,6 +87,16 @@ Optional: ElvUI (bar scanning + window skinning).
 | Damage spells and debuffs | Hostile | Target |
 | Anything you must never misfire (big cooldowns, resurrect) | Friendly | Mouseover only |
 
+## Support
+
+This addon is free, and it stays free.
+
+If it saved you from writing one more mouseover macro — or made your healing click into
+place — you can buy me a coffee at **[ko-fi.com/woloui](https://ko-fi.com/woloui)**.
+Completely optional and genuinely appreciated. ☕
+
+Either way, thanks for playing with it. Bug reports and ideas are worth just as much.
+
 ## Credits
 
 Made by **WoloUI**. Previously released under the working name *MouseoverMaster*.
